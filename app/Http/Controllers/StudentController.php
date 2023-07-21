@@ -90,6 +90,8 @@ class StudentController extends Controller
         
     }
 
+    //update function 
+
     public function update(Request $request, $id){
 
 
